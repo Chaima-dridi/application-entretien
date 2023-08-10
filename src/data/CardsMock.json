@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "id": "CAR-11196161",
+            "cardNumber": "3594XXXXXXXX7988",
+            "accountId": "ACC-00101-18676767888",
+            "accountName": "BEN FOULEN FOULEN",
+            "status": "Active",
+            "type": "Carte Gold nationale personnel niv-3",
+            "creationDate": "15/07/2022",
+            "expiryDate": "15/07/2026",
+            "cardLimit": "4000",
+            "cardAvailableLimit": "3715",
+            "lastTransactionDate": "03/08/2023",
+            "lastModifStatusDate": "27/07/2022"
+        },
+        {
+            "id": "CAR-11156501",
+            "cardNumber": "4938XXXXXXXX6811",
+            "accountId": "ACC-00131-18676767676",
+            "accountName": "BEN FOULEN FOULEN",
+            "status": "Bloquée",
+            "type": "OFFRE REZKI CARTE VISA NATIONALE",
+            "creationDate": "22/07/2020",
+            "expiryDate": "22/07/2023",
+            "cardLimit": "5000",
+            "cardAvailableLimit": "5000",
+            "lastTransactionDate": "29/01/2023",
+            "lastModifStatusDate": "01/08/2023"
+        },
+        {
+            "id": "CAR-47028421",
+            "cardNumber": "4938XXXXXXXX8311",
+            "accountId": "ACC-00131-18676767676",
+            "accountName": "BEN FOULEN FOULEN",
+            "status": "En route",
+            "type": "8DIGIT OFFRE REZKI CARTE VISA NATIONALE",
+            "creationDate": "03/07/2023",
+            "expiryDate": "31/07/2027",
+            "cardLimit": "5000",
+            "cardAvailableLimit": "5000",
+            "lastTransactionDate": "29/01/2023",
+            "lastModifStatusDate": "28/07/2023"
+        }
+    ]
+}

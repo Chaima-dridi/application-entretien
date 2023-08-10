@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "id": "ACC-00101-18676767888",
+            "agency": "AGENCE ATTIJARI PERSO",
+            "agencyCode": "00101",
+            "accountNumber": "18676767888",
+            "accountTitle": "BEN FOULEN FOULEN"
+        },
+        {
+            "id": "ACC-00131-18676767676",
+            "agency": "AGENCE BAB SOUIKA",
+            "agencyCode": "00131",
+            "accountNumber": "18676767676",
+            "accountTitle": "BEN FOULEN FOULEN"
+        }
+    ]
+}

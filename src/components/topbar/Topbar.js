@@ -91,7 +91,8 @@ function Topbar() {
                         aria-label="open drawer"
                         edge="end"
                         onClick={handleDrawerOpen}
-                        sx={{ ...(open && { display: 'none' }) }}
+                        sx={{ ...(open && { display: 'none' }) ,
+        padding: 0,}}
                     >
                         <MenuIcon />
                     </IconButton>
